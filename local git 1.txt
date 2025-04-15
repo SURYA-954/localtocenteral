@@ -1,2 +1,4 @@
 RBG TECHNOLOGIES
 HYDERABAD
+ java selenium 
+manual testing
